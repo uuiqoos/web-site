@@ -39,3 +39,16 @@ ol{
         border-bottom: none;
     }
 }
+
+/*
+우선순위
+tag < class < id
+
+div, span 의미X 디자인
+
+display
+
+mediaquery
+
+grid
+*/
